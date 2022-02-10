@@ -6,15 +6,15 @@ namespace Variable_Exercise
     {
         static void Main(string[] args)
         {
-            string firstName = "John";
+            string dogName = "Ralph";
 
-            string sentence1 = "This is the first sentence.";
+            int dogAge = 10;
 
-            string sentence2 = "This is the second sentence";
+            int dogMomAge = 22;
 
-            string added = $"{sentence1} {sentence2}";
+            string dogMomName = "Linda";
 
-            Console.WriteLine(added);
+            Console.WriteLine($"My dog's name is {dogName}, He is {dogAge} years old. His mother is {dogMomAge} years old. Also, her name is {dogMomName}.");
 
 
         }
