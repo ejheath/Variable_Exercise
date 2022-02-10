@@ -1,0 +1,13 @@
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.deps.json
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.runtimeconfig.json
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.runtimeconfig.dev.json
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.dll
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/bin/Debug/netcoreapp3.1/Variable_Exercise.pdb
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.csproj.AssemblyReference.cache
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.AssemblyInfoInputs.cache
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.AssemblyInfo.cs
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.csproj.CoreCompileInputs.cache
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.dll
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.pdb
+/Users/elijahheath/Desktop/repos/Variable_Exercise/Variable_Exercise/obj/Debug/netcoreapp3.1/Variable_Exercise.genruntimeconfig.cache
